@@ -44,11 +44,10 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com]
-- 🖥️ Portfolio: [your-portfolio.com]
-- 🐦 Twitter: [@yourhandle](https://twitter.com/)
-- 📷 Instagram: [@yourhandle](https://instagram.com/)
-- 🎥 YouTube: [Your Channel](https://youtube.com/)
+- 📧 Email: hello@abdur.info
+- 🖥️ Portfolio: abdur.info
+- 🎥 YouTube: [Abdur](https://www.youtube.com/@abdurinfo)
+- 📷 Facebook: [@abdur.informatio]([https://instagram.com/](https://www.facebook.com/abdur.information/))
 
 ---
 
